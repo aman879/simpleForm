@@ -25,6 +25,11 @@ npm start
 4. Choose `Node.js` as SDK config.
 5. Click on `Generate new private key` to download your Firebase Admin SDK JSON file.
 
+### Creating firestore database
+
+1. At the left side of firebase console under Build section click on `Firestore Database`.
+2. Click on `Create database`.
+
 ### Move Firebase Key to the Project:
 1. Rename the downloaded JSON key file to `Firebase-key.json`.
 2. Copy file to `Project_folder/etc/secrets/firebase-key.json`.
