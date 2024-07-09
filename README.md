@@ -40,3 +40,7 @@ Start the server:
 node server.js
 ```
 The server will start running at `http://localhost:3000`.
+
+## Preview
+
+check the live site at https://simpleform-lhxp.onrender.com
