@@ -5,7 +5,7 @@
 ### Clone the repository and navigate to project directory:
 
 ```bash
-git clone https://github.com/aman879/simpleForm
+git clone https://github.com/aman879/simpleForm.git
 cd simpleForm
 ```
 
