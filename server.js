@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
 
 app.post('/submit', async(req, res) => {
     const {name, email, message}  = req.body;
-    console.log(name, email, message)
+    res.status(400).send("submitting");
     if (!name || !email || !message) {
         return res.status(400).send("Name, email, or message missing");
     }
